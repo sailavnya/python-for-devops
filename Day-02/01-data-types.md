@@ -17,21 +17,30 @@ In programming, a data type is a classification or categorization that specifies
 
 Example:
 
-python
+python:-
+
 my_list = [1, 2, 3]
+
 my_list.append(4)   # ✅ You can add elements
+
 my_list[0] = 10     # ✅ You can modify elements
+
 print(my_list)      # [10, 2, 3, 4]
+
 🔒 Tuple
+
 Definition: Ordered, immutable (cannot be changed after creation).
 
 Syntax: Parentheses ()
 
 Example:
 
-python
+python:-
+
 my_tuple = (1, 2, 3)
-# my_tuple.append(4) ❌ Error: tuples don’t support item assignment
+
+my_tuple.append(4) ❌ Error: tuples don’t support item assignment
+
 print(my_tuple[0])   # ✅ You can access elements)
 
 3. **Mapping Type:**
