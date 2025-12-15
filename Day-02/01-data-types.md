@@ -11,6 +11,7 @@ In programming, a data type is a classification or categorization that specifies
    - **str**: Represents strings (sequences of characters). Example: `text = "Hello, World"`
    - **list**: Represents lists (ordered, mutable sequences). Example: `my_list = [1, 2, 3] `
    - **tuple**: Represents tuples (ordered, immutable sequences). Example: `my_tuple = (1, 2, 3)`
+     
 ( - List:- Definition: Ordered, mutable (can be changed after creation).
    - Syntax: Square brackets []
 
